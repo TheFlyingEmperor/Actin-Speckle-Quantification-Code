@@ -1,2 +1,2 @@
 # Actin-Flow-Quantification-Code
-code to quantify actin flow between FAs, without segmenting them
+code to generally quantify actin flow from actin speckle data, without segmenting focal adhesions
